@@ -1,6 +1,6 @@
 # thinkpad-red-dot-led
 Lenovo ThinkPad lid "i" red dot turn off/on
-
+```
 1. 
   enable write access
     sudo modprobe -r ec_sys
@@ -18,4 +18,4 @@ Lenovo ThinkPad lid "i" red dot turn off/on
 
 3. 
   if it doesn't work, try disable secure boot
-  
+```
